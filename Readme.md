@@ -6,7 +6,7 @@
 | ------- | ------- | ----------------------------------------------------------------------------------------------- |
 | Python  | 3.9.0   | https://www.python.org/downloads/release/python-390/                                            |
 | pandas  | 1.4.2   | https://pandas.pydata.org/                                                                      |
-| slearn  |         | https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html |
+| sklearn |         | https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html |
 
 ## 2. Project Motivation
 
